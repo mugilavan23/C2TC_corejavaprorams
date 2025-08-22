@@ -1,4 +1,4 @@
-package dayNine;
+package com.tnsif.dayNine;
 
 public class StringComparision {
 
