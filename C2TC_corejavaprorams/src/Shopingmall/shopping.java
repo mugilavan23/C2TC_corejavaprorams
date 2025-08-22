@@ -1,4 +1,4 @@
-package com.tnsif.Shopingmall;
+package Shopingmall;
 
 public interface shopping {
 	public void purchase();

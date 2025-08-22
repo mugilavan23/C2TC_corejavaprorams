@@ -1,4 +1,4 @@
-package com.tnsif.Shopingmall;
+package Shopingmall;
 
 public class clothes implements shopping {
 	public void purchase() {
