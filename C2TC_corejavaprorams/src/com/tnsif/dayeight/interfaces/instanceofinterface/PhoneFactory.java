@@ -6,7 +6,7 @@ public class PhoneFactory {
 		if (company.equalsIgnoreCase("Samsung"))
 			return new Samsung();
 		else if (company.equalsIgnoreCase("Jio"))
-			return new Jio();
+			return new Phone();
 		return null;
 	}
 }
