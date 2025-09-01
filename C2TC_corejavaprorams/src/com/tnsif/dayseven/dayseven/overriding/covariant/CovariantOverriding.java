@@ -1,5 +1,5 @@
 //Program to demonstrate covariant overriding
-package com.tnsif.dayseven.overriding.covariant;
+package com.tnsif.dayseven.dayseven.overriding.covariant;
 
 //base class
 class Color {

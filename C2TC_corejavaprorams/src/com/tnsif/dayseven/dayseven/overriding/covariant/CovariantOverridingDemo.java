@@ -1,5 +1,5 @@
 //Program to demonstrate usage of Covariant Method Overriding 
-package com.tnsif.dayseven.overriding.covariant;
+package com.tnsif.dayseven.dayseven.overriding.covariant;
 
 public class CovariantOverridingDemo {
 	public static void main(String arg[])

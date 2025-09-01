@@ -1,5 +1,5 @@
 //Program to define overloaded methods for Palindrome checking
-package com.tnsif.dayseven.overloading.v1;
+package com.tnsif.dayseven.dayseven.overloading.v1;
 
 public class Operations {
 	
